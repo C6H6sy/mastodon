@@ -1731,7 +1731,7 @@ en:
   tags:
     does_not_match_previous_name: does not match the previous name
   themes:
-         contrast: Mastodon (High contrast)
+     contrast: Mastodon (High contrast)
      default: Mastodon Bird UI (Dark)
      bird-ui-light: Mastodon Bird UI (Light)
      bird-ui-dark: Mastodon Bird UI (dark)
