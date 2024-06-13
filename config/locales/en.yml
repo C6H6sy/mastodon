@@ -1731,13 +1731,13 @@ en:
   tags:
     does_not_match_previous_name: does not match the previous name
   themes:
-     contrast: Mastodon (High contrast)
-     default: Hunter16th salaryman
+         contrast: Mastodon (High contrast)
+     default: Mastodon Bird UI (Dark)
      bird-ui-light: Mastodon Bird UI (Light)
      bird-ui-dark: Mastodon Bird UI (dark)
      mastodon-light: Mastodon (Light)
      mastodon-dark: Mastodon (Dark)
-     theme-ui-dark: Hunter16th Default
+     theme-ui-dark: Mastodon Bird UI - vanila (dark)
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
