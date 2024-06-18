@@ -65,8 +65,8 @@
   --color-hashtag: var(--color-accent);
   --color-mention: var(--color-accent);
   --color-link: var(--color-accent);
-  --color-bg-compose-form: rgb(39 44 64 / .4);
-  --color-bg-compose-form-focus: rgb(39 44 64 / .8);
+  --color-bg-compose-form: rgb(255 228 76 / .3);
+  --color-bg-compose-form-focus: rgb(255 228 76 / .5);
 
   /* In the original UI this color is lighten($ui-base-color, 12%) */
   --color-outer-space: #42485a;
@@ -212,15 +212,15 @@ body.theme-default.layout-multiple-columns {
   --logo: url('../images/theme/wordmark_lighthunter.png');
   --m-logo: url('../images/theme/m_logo_lighthunter.png');
 
-  --color-column: rgba(255, 255, 255, 0.4);
-  --color-columns: rgba(255, 255, 255, 0.5);
+  --color-column: rgba(255, 255, 255, 0.7);
+  --color-columns: rgba(255, 255, 255, 0.8);
 
   --color-brand-mastodon: #1e2028;
-  --color-brand-mastodon-links: #575757;
+  --color-brand-mastodon-links: #c48600;
   --color-accent-dark-50: #1e202880;
 
-  --color-accent:#575757;
-  --color-accent-dark: #1e2028;
+  --color-accent:#c48600;
+  --color-accent-dark: #7d5809;
 
   --color-bg: #fff;
   --color-fg: #000;
